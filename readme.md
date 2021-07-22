@@ -22,7 +22,7 @@ via this package you can push notifications to [ Facebook , Twitter , Telegram ,
 	) )->push();
 
 ```
-![SocialHelper](https://github.com/[username]/[reponame]/images/[branch]/screenshot.png?raw=true)
+![SocialHelper](https://github.com/peter-tharwat/push-to-social/blob/master/images/screenshot.png)
 
 # You have to install
 
